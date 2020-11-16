@@ -62,7 +62,7 @@ SQL      11 mins         █░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://murhabazi.com">
-        	<img alt="linkedin" src=" https://i.imgur.com/1xQIiaF.png" height=50>
+        	<img alt="linkedin" src="https://i.imgur.com/8rqLdgy.png" height=50>
 	</a>
 	<a href="https://www.linkedin.com/in/bmodebadze">
         	<img alt="linkedin" src="https://i.imgur.com/wcvwfoZ.png" height=50>
