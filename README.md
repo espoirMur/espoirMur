@@ -16,7 +16,7 @@
 
 
 ### Others Interests
-:computer: Planning to do a master degree in applied Statics or Natural Language Processing. 
+:computer: Planning to do a master in Statistical Machine Learning or Natural Language Processing. 
 
 
 ### Hobbies
