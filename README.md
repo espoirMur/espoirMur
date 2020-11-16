@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=espoirMur)
-## Greetings from DRC :cd: !
+## Greetings from DRC :congo_kinshasa:
 
 <p align="center">
 	<img title="Python" src="https://media0.giphy.com/media/VdzWdSs9U2fvn4DVKx/giphy.gif" width=640>
