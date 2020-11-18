@@ -25,7 +25,7 @@
 
 ### Some stats
 
-<p align="center">
+<p>
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=espoirMur&show_icons=true&theme=synthwave"/>
 </p>
 
