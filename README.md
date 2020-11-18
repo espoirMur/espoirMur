@@ -9,7 +9,7 @@
 :robot: Software Engineer with more than four years of experience solving problems using Python and Javascript.
 
 ### Occupation
-:space_invader: I work remotely as a Software and Data Engineer for a consulating firm based in Belguim. We are using the Travel Salesman Problem to build the next Transport Management System.  
+:space_invader: I work remotely as a Software and Data Engineer for [Xeco](https://xeco.be/) a consulating firm based in Belguim. We are using the Travel Salesman Problem to build the next generation of Transport Management Software.  
 
 ### Education
 :computer: Life Long leanner with a Bachelor Degree in Electrical and Computer Engineering. 
@@ -23,22 +23,20 @@
 
 :soccer: When not coding I enjoy watching premier league games while supporting Manchester City and My own FPL team. 
 
+### Some stats
+
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=espoirMur&show_icons=true&theme=synthwave"/>
 </p>
 
 
-### Activity for The Past Week
-<!--START_SECTION:waka-->
-```text
-Week: 08 November, 2020 - 15 November, 2020
+<p>
+  <img title="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espoirMur&layout=compact&show_icons=true&theme=synthwave"/>
+</p>
 
-TeX      2 hrs 46 mins   ███████████████▓░░░░░░░░░   62.80 % 
-Python   1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.90 % 
-Java     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-SQL      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-```
-<!--END_SECTION:waka-->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=espoirMur)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -----
 ### Languages & Framekworks & Whatnots
