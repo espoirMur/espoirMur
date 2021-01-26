@@ -1,16 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=espoirMur)
 ## Greetings from DRC :congo_kinshasa:
 
-<p align="center">
-	<img title="Python" src="https://media0.giphy.com/media/VdzWdSs9U2fvn4DVKx/giphy.gif" width=640>
- </p>
-
 ### About
 :robot: Software Engineer with more than four years of experience solving problems using Python and Javascript.
 
 ### Occupation
-:space_invader: I work remotely as a Software and Data Engineer for [Xeco](https://xeco.be/) a consulating firm based in Belguim. We are using the Travel Salesman Problem to build the next generation of Transport Management Software.  
-
+:space_invader: Software Engineer at [spiny.ai](spiny.ai)
+I am working in a data team with Data Scientist and Machine Learning Engineers. I make sure they are following the best Software Engineering practices while building the next generation of publishers intelligence platform. 
 ### Education
 :computer: Life Long leanner with a Bachelor Degree in Electrical and Computer Engineering. 
 
@@ -35,9 +31,6 @@
 </p>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=espoirMur)](https://github.com/anuraghazra/github-readme-stats)
-
-
 -----
 ### Languages & Framekworks & Whatnots
 
@@ -60,9 +53,9 @@
 
 <p align="center">
   <a href="https://murhabazi.com">
-        	<img alt="linkedin" src="https://i.imgur.com/8rqLdgy.png" height=50>
+        	<img alt="web" src="https://i.imgur.com/8rqLdgy.png" height=50>
 	</a>
-	<a href="https://www.linkedin.com/in/bmodebadze">
+	<a href="https://www.linkedin.com/in/murhabazi-buzina-espoir-7849b1b1/">
         	<img alt="linkedin" src="https://i.imgur.com/wcvwfoZ.png" height=50>
 	</a>
 	<a href="https://www.github.com/espoirMur">
