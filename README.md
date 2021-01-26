@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=espoirMur)
-## Greetings from DRC :congo_kinshasa: ==> Mbote ba Ndeko, Jambo ba Ndugu
+## Greetings from DRC :congo_kinshasa:
+
+Mbote ba Ndeko, Biko aye ba Masta? 
 
 ### About
 :robot: Software Engineer with more than four years of experience solving problems using Python and Javascript.
