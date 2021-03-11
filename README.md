@@ -7,7 +7,7 @@ Mbote ba Ndeko, Biko aye ba Masta?
 :robot: Software Engineer with more than four years of experience solving problems using Python and Javascript.
 
 ### Occupation
-:space_invader: Software Engineer at [spiny.ai](spiny.ai)
+:space_invader: Software Engineer at [spiny.ai](https://spiny.ai/)
 I am working in a data team with Data Scientist and Machine Learning Engineers. I make sure they are following the best Software Engineering practices while building the next generation of publishers intelligence platform. 
 ### Education
 :computer: Life Long leanner with a Bachelor Degree in Electrical and Computer Engineering. 
