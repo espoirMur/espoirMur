@@ -17,7 +17,7 @@ I am working in a data team with Data Scientist and Machine Learning Engineers. 
 
 👨🏾‍💻I love learning everyday how to improve my productivity.
 
-🤖 Natural Language Processing particulary : Topic Modelling, Machine Translation  Conversational Agents and Question Ansewering 
+🤖 Natural Language Processing particulary : Topic Modelling, Machine Translation , Conversational Agents and Question Ansewering 
 
 ### Hobbies
 
