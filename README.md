@@ -1,29 +1,39 @@
 ![](https://komarev.com/ghpvc/?username=espoirMur)
-## Greetings from DRC :congo_kinshasa:
 
-Mbote ba Ndeko, Biko aye ba Masta? 
+<p>
+  👋 Hi, I'm Espoir.
+  Here we say Mbote ba Ndeko or Biko aye ba Masta?
+</p>
+<p>
+  🇨🇩 I'm currently based in  DRC.
+</p>
+<p>
+  ✍️ I'm a Software Engineer lost in Data Science. 
+</p>
+<p>
+  🦔 Currently, at spiny.ai, I work in a data team with Data Scientists and Machine Learning Engineers. I build pipelines on AWS  that deliver our work to our clients. 
+</p>
 
-### About
-🤪 Software Engineer with more than four years of experience solving problems using Python and Javascript.
+<p>
+  🤖My other interests are Probabilistic Machine Learning and Natural Language Processing, particularly:  Topic Modelling, Machine Translation, Conversational Agents and Question Answering
+</p>
 
-### Occupation
-🧐 Software Engineer at [spiny.ai](https://spiny.ai/)
-I am working in a data team with Data Scientist and Machine Learning Engineers. I make sure they are following the best Software Engineering practices while building the next generation of publishers intelligence platform. 
-### Education
-:computer: Life Long leanner with a Bachelor Degree in Electrical and Computer Engineering. 
+<p>
+  🦄 I'm a member of the <a href="https://www.masakhane.io/community">Mashakhane</a>   A Independant research group , we are applying cutting edge NLP Research to Africans Languages Translation.
+</p>
+<p>
+⚽ When not coding I enjoy watching premier league games while supporting Manchester City 🦈 and My own FPL team.
+</p>
+<p>
+  🔊 I love listening to Congolese Music in the Morning , Here are  <a href="(https://open.spotify.com/playlist/37i9dQZF1Epj9nTdh9zalG?si=2a1010cadbe14f37">my favourites</a>.
+   songs for now 🎧
+</p>
+<p>
+  🤪 Fun fact: I use Colemak Keyboard.
+</p>
 
+## Github Stats
 
-### Interests
-
-👨🏾‍💻I love learning everyday how to improve my productivity.
-
-🤖 Natural Language Processing particulary : Topic Modelling, Machine Translation , Conversational Agents and Question Ansewering 
-
-### Hobbies
-
-:soccer: When not coding I enjoy watching premier league games while supporting Manchester City 🦈 and My own FPL team. 
-
-### Some stats
 
 <p>
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=espoirMur&show_icons=true&theme=synthwave"/>
