@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  🦄 I'm a member of the <a href="https://www.masakhane.io/community">Mashakhane</a> . <p>  A Independant research group ,we are applying cutting edge NLP Research to Africans Languages Translation. </p>
+  🦄 I'm a member of the <a href="https://www.masakhane.io/community">Mashakhane</a> . <p>  An Independant research group ,we are applying cutting edge NLP Research to Africans Languages Translation. </p>
 </p>
 <p>
 ⚽ When not coding I enjoy watching premier league games while supporting Manchester City 🦈 and My own FPL team.
