@@ -29,7 +29,7 @@
    songs for now 🎧
 </p>
 <p>
-  🤪 Fun fact: I am an anti Faceboook product, I have neither an Instagram account nor a Facebook one and I use a Whatsapp version without status.😉
+  🤪 Fun fact: I am an anti Faceboook products, I have neither an Instagram account nor a Facebook one and I use a Whatsapp version without status.😉
 </p>
 
 ## Github Stats
