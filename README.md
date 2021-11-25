@@ -5,7 +5,7 @@
   Here we say Mbote ba Ndeko or Biko aye ba Masta?
 </p>
 <p>
-  🇨🇩 I'm currently based in  DRC. #MwanaMboka
+  🇨🇩From DRC , but currently in the UK 🇬🇧 #MwanaMboka
 </p>
 <p>
   ✍️ I'm a Software Engineer lost in Data Science. 
@@ -29,7 +29,7 @@
    songs for now 🎧
 </p>
 <p>
-  🤪 Fun fact: I use Colemak Keyboard.
+  🤪 Fun fact: I am an anti Faceboook product, I have neither an Instagram account nor a Facebook one and I use a Whatsapp version without status.😉
 </p>
 
 ## Github Stats
