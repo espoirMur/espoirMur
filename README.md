@@ -29,7 +29,7 @@
    songs for now 🎧
 </p>
 <p>
-  🤪 Fun fact: I am an anti Faceboook products, I have neither an Instagram account nor a Facebook one and I use a Whatsapp version without status.😉
+  🤪 Fun fact: I have never thought that saying that I am the firstborn in my family and having nine siblings from the same mum would be my fun fact one day.👨‍👩‍👧‍👦😉
 </p>
 
 ## Github Stats
