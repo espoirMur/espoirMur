@@ -32,6 +32,11 @@
   🤪 Fun fact: I have never thought that saying that I am the firstborn in my family and having nine siblings from the same mum would be my fun fact one day.👨‍👩‍👧‍👦😉
 </p>
 
+
+<p>
+ 🙏🏻 Favorite Quotes : <em>The goal isn't to live forever but to create something that will.</em> Jamal Edwards MBE
+</p>
+ 
 ## Github Stats
 
 
