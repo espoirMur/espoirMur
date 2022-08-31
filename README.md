@@ -11,7 +11,7 @@
   ✍️ I'm a Software Engineer with experience in Data Science and Natural Language Processing. 
 </p>
 <p>
-  🦔 Currently, at spiny.ai, I work with Data Scientists and Machine Learning Engineers. I build pipelines on AWS  that deliver our work to our clients.
+  🦔 Currently, at Spiny.ai, I work with Data Scientists and Machine Learning Engineers. I build pipelines on AWS  that deliver our work to our clients.
 </p>
 
 <p>
