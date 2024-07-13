@@ -10,9 +10,6 @@
 <p>
   ✍️ I'm a Software Engineer with experience in Data Science and Natural Language Processing. 
 </p>
-<p>
-  🦔 Currently, at Spiny.ai, I work with Data Scientists and Machine Learning Engineers. I build pipelines on AWS  that deliver our work to our clients.
-</p>
 
 <p>
   🤖My other interests are Probabilistic Machine Learning and Natural Language Processing, particularly: Topic Modelling, Machine Translation, Conversational Agents, Information Retrieval and Question Answering.
